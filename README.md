@@ -2,16 +2,16 @@
 ## Table of Contents
   <a href="#intro">Introduction</a>
 
-  <a href="app1">Application 1 - Erector's Inc</a>  
-* <a href="nav1">Nav Bar Upgrades</a>
-* <a href="links">Link Styling and Animation</a>
+  <a href="#app1">Application 1 - Erector's Inc</a>  
+* <a href="#nav1">Nav Bar Upgrades</a>
+* <a href="#links">Link Styling and Animation</a>
 
-<a href="app2">Application 2 - Management Portal</a>  
+<a href="#app2">Application 2 - Management Portal</a>  
 * <a href="#chat">Chat Box Modal</a>
-* <a href="datepicker">Date Picker Pop Up</a>
-* <a href="nav2">Collapsible Nav Bar</a>
-* <a href="tables">Table Styling</a>
-* <a href="news">Company News Re-Work</a>
+* <a href="#datepicker">Date Picker Pop Up</a>
+* <a href="#nav2">Collapsible Nav Bar</a>
+* <a href="#tables">Table Styling</a>
+* <a href="#news">Company News Re-Work</a>
 
 <a href="summary">Sprint Summary</a>  
 
